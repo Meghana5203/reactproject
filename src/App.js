@@ -1,4 +1,4 @@
-/*import React from 'react';
+import React from 'react';
 import './App.css';
 import Table from './Components/Table';
 
@@ -11,8 +11,8 @@ function App() {
   );
 }
 
-export default App;*/
-import React from 'react';
+export default App;
+/*import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Contact from './Components/Contact';
@@ -36,4 +36,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
